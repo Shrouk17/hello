@@ -1,0 +1,50 @@
+
+.container {
+    background-color: rgb(240, 226, 180);
+    width: 1340px;
+    height: 615px;
+    font-family:Cursive;
+    font-style: italic;
+    
+    color: rgb(232, 237, 241);
+    
+}
+
+.header {
+    background-color: rgb(250, 140, 96);
+    padding: 20px;
+    margin: 5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: rgb(253, 137, 137);
+    padding: 20px;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.article {
+    background-color: crimson;
+    padding: 10px;
+    width: 1000px;
+    height: 425px;
+    margin: 5px;
+    float:left;
+}
+
+.ad-sidebar {
+    background-color: coral;
+    width: 300px;
+    height: 440px;
+    margin: 5px;
+    float:right;
+}
+
+.footer {
+    background-color: rgb(250, 140, 96);
+    padding: 20px;
+    margin-block-start: -5px;
+}
